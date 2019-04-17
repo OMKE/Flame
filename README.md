@@ -1,19 +1,15 @@
-# Flame
+<center><img src="public/img/flame_logo.png" width=100></center>
+<center><h1>Flame</h1></center>
+
+
+## About Flame
 Flame is a MVC Micro-framework written in PHP.
-<p align=center>todos: 
-<br>write documentation
-<br>build docker image
-
-</p>
-
-
-
 
 
 
 ## Configuration
-### Apache - .htaccess file in public folder 
-/public/.htaccess
+#### Apache - .htaccess file in public folder 
+`/public/.htaccess`
 ```
 <IfModule mod_rewrite.c>
     Options -MultiViews
@@ -27,7 +23,7 @@ Flame is a MVC Micro-framework written in PHP.
 
 
 
-### nginx - server block configuration file
+#### nginx - server block configuration file
 ```
 location / {
         try_files       $uri

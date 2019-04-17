@@ -8,7 +8,7 @@ desc:
 
     require_once '../app/bootstrap.php'; 
 
-    // Init Core Library
+    // Initialization of Core Library
     $init = new Core;
 
 
