@@ -13,7 +13,7 @@ Flame is a MVC Micro-framework written in PHP.
 
 ## Configuration
 ### Apache - .htaccess file in public folder 
-/Flame-master/public/.htaccess
+/public/.htaccess
 ```
 <IfModule mod_rewrite.c>
     Options -MultiViews
