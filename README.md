@@ -1,4 +1,6 @@
-<img align='center' src="public/img/flame_logo.png" width=100>
+<p align="center">
+<img src="public/img/flame_logo.png" width=100>
+</p>
 <h1 align=center>Flame</h1>
 
 
