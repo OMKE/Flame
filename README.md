@@ -1,5 +1,5 @@
-<center><img src="public/img/flame_logo.png" width=100></center>
-<center><h1>Flame</h1></center>
+<img align='center src="public/img/flame_logo.png" width=100>
+<h1 align=center>Flame</h1>
 
 
 ## About Flame
