@@ -11,4 +11,4 @@
     // URL Root - /etc/hosts file, change it so it corresponds to your app url
     define('URLROOT', 'http://flame.mvc/');
     // Applicaiton name
-    define('SITENAME', 'Flame - MVC Microframework');
+    define('SITENAME', 'Flame - MVC framework');

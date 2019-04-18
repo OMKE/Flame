@@ -5,7 +5,7 @@
 
 
 ## About Flame
-Flame is a MVC Micro-framework written in PHP.
+Flame is a MVC framework written in PHP.
 
 
 
